@@ -29,8 +29,10 @@ Then you will find executables in build/src
 * recolor_text is a game within the terminal without graphical interface.
 * recolor_solve is a solver able to find certain solutions for a given game in parameters through a file **Still working on this**.
 
-
-
+## Important
+You will need:
+    * cmake 
+    * SLD2
 
    
  
