@@ -1,2 +1,0 @@
-Here are stored all ressources for the sdl version of the game,
-also some map game for that can be solve, by the solver.

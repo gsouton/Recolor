@@ -1,1 +1,0 @@
-/usr/bin/cc -std=c99 -Wall   CMakeFiles/recolor_sdl.dir/sdl_recolor_text.c.o  -o recolor_sdl -lSDL2 -lSDL2_image -lSDL2 -lSDL2_ttf -lSDL2 -lm libgame.a -lSDL2_image -lSDL2_ttf -lm 

@@ -1,1 +1,0 @@
-/usr/bin/cc -std=c99 -Wall   CMakeFiles/test_game_tlaveau.dir/test_game_tlaveau.c.o  -o test_game_tlaveau  -L/home/gilles/Documents/projects/recolor-tdm4-c/tests../src -Wl,-rpath,/home/gilles/Documents/projects/recolor-tdm4-c/tests../src ../src/libgame.a 

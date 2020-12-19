@@ -1,1 +1,0 @@
-/usr/bin/cc -std=c99 -Wall   CMakeFiles/recolor_text.dir/recolor_text.c.o  -o recolor_text libgame.a 

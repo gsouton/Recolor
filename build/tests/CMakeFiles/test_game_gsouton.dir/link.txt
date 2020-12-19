@@ -1,1 +1,0 @@
-/usr/bin/cc -std=c99 -Wall   CMakeFiles/test_game_gsouton.dir/test_game_gsouton.c.o  -o test_game_gsouton  -L/home/gilles/Documents/projects/recolor-tdm4-c/tests../src -Wl,-rpath,/home/gilles/Documents/projects/recolor-tdm4-c/tests../src ../src/libgame.a 
