@@ -1,0 +1,1 @@
+/usr/bin/cc -std=c99 -Wall   CMakeFiles/test_game_klaveau.dir/test_game_klaveau.c.o  -o test_game_klaveau  -L/home/gilles/Documents/projects/recolor-tdm4-c/tests../src -Wl,-rpath,/home/gilles/Documents/projects/recolor-tdm4-c/tests../src ../src/libgame.a 

@@ -1,0 +1,19 @@
+Alexandre:
+    game_set_max_moves
+    game_delete
+    game_play_one_move --> aide (flood fill algorithm)
+
+Gilles:
+    game_new
+    game_new_empty
+    game_restart
+
+Tanguy:
+    game_set_cell_init
+    game_nb_moves_max
+    game_cell_current_color
+
+Kevin:
+    game_is_over
+    game_nb_moves_cur
+    game_copy

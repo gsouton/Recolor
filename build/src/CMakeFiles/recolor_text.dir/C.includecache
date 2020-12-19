@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gilles/Documents/projects/recolor-tdm4-c/include/game.h
+stdbool.h
+-
+
+/home/gilles/Documents/projects/recolor-tdm4-c/include/game_io.h
+stdio.h
+-
+game.h
+/home/gilles/Documents/projects/recolor-tdm4-c/include/game.h
+
+/home/gilles/Documents/projects/recolor-tdm4-c/include/game_rand.h
+game.h
+/home/gilles/Documents/projects/recolor-tdm4-c/include/game.h
+
+/home/gilles/Documents/projects/recolor-tdm4-c/src/recolor_text.c
+stdlib.h
+-
+stdio.h
+-
+stdbool.h
+-
+string.h
+-
+assert.h
+-
+time.h
+-
+../include/game.h
+/home/gilles/Documents/projects/recolor-tdm4-c/include/game.h
+../include/game_io.h
+/home/gilles/Documents/projects/recolor-tdm4-c/include/game_io.h
+../include/game_rand.h
+/home/gilles/Documents/projects/recolor-tdm4-c/include/game_rand.h
+

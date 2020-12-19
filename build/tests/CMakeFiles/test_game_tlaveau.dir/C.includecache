@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gilles/Documents/projects/recolor-tdm4-c/include/game.h
+stdbool.h
+-
+
+/home/gilles/Documents/projects/recolor-tdm4-c/tests/test_game_tlaveau.c
+assert.h
+-
+stdbool.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+../include/game.h
+/home/gilles/Documents/projects/recolor-tdm4-c/include/game.h
+
