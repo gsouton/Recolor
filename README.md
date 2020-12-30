@@ -14,14 +14,12 @@ To accomplish that the rules are really simple:
 ## Setup
 You can either create your own build directory and then use cmake or run setup.sh
 
-* Choice 1:\
-    ./setup.sh
+* 1)    ./setup.sh
  
-* Choice 2:\
-    mkdir build\
-      cd build\
-      cmake ..\
-      make
+* 2)    mkdir build\
+        cd build\
+        cmake ..\
+        make
  
 Then you will find executables in build/src
 
